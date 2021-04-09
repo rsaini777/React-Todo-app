@@ -1,0 +1,22 @@
+.body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: #ECECEB;
+   
+    
+}
+.body h1{
+    padding: 50px;
+}
+
+.hyper{
+    height: 300px;
+    width: 560px;
+    border: solid 10px #2E383F;
+    margin-top: 30px;
+    margin-bottom:30px;
+    background-color: #07617D;
+
+}

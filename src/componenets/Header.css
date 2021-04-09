@@ -1,0 +1,13 @@
+.header{
+    padding:30px;
+}
+
+.input{
+    padding: 10px 100px ;
+    border-radius: 99px;
+    outline: none;
+    font-size: x-large;
+    color: black;
+    background-color: #ECECEB;
+    text-decoration: none;
+}
